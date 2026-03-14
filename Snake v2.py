@@ -4,7 +4,7 @@ import random
 
 
 BlockSize = 15
-FoodColor = [0, 0, 255]
+FoodColor = [0, 255, 255]
 BgColor = [0, 0, 0]
 
 clock = pygame.time.Clock()
